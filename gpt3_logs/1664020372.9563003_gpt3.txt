@@ -1,0 +1,15 @@
+Write a killer blog outline for the following request from a customer.
+
+REQUEST: "I want a cool blog post about the history of Shinto and torii gates in Japan. Like, how did they come up with that idea? What does it mean? What are the coolest ones to see? I'm going to Japan next summer."
+
+Brainstorm a list of sections for this blog post. The outline should meet the customer's request and each section should be highly descriptive.
+
+SECTIONS:
+1.
+
+==========
+
+The History of Shinto
+2. The Meaning of Torii Gates
+3. The Coolest Torii Gates to See
+4. Shinto in Japan Today

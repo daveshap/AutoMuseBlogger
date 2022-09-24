@@ -1,0 +1,10 @@
+I brainstormed the following list of sections of a blog based on the customer's request. I need to brainstorm to see if there are any improvement I can make to this outline.
+
+REQUEST: "<<REQUEST>>"
+
+OUTLINE:
+<<OUTLINE>>
+
+Brainstorm some possible improvements:
+
+1.

@@ -1,0 +1,16 @@
+Write a killer blog outline for the following request from a customer.
+
+REQUEST: "I want a blog post about the history of the printing press. I'd like to know how it influenced religion, politics, and war throughout history and up through the modern age."
+
+Brainstorm a list of sections for this blog post. The outline should meet the customer's request and each section should be highly descriptive.
+
+SECTIONS:
+1.
+
+==========
+
+Origins of the printing press 
+2. How the printing press influenced religion 
+3. How the printing press influenced politics 
+4. How the printing press influenced war 
+5. The modern printing press

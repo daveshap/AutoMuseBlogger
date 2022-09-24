@@ -1,0 +1,8 @@
+Write a killer blog outline for the following request from a customer.
+
+REQUEST: "<<REQUEST>>"
+
+Brainstorm a list of sections for this blog post. The outline should meet the customer's request and each section should be highly descriptive.
+
+SECTIONS:
+1.
